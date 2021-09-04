@@ -1,6 +1,6 @@
 # Web Application With Spring Boot Initializr
 <li>Run in IntelliJ IDEA on MacOS 11.5.2</li>
-<img src="preview.png">
+<img src="img/preview.png">
 
 ### using JAVA 16 have dependency follow as:
 <ul>
