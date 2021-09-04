@@ -1,5 +1,5 @@
 # Web Application With Spring Boot Initializr
-# using JAVA 16 have dependency follow as:
+### using JAVA 16 have dependency follow as:
 <ul>
     <li>spring-boot-starter-parent</li>
     <li>spring-boot-starter-thymeleaf</li>
